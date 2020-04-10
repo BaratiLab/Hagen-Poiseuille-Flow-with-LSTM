@@ -2,7 +2,7 @@
 
 This tutorial outlines how to model developing Hagen-Poiseuille flow with LSTM using Python in
 Jupyter Notebook. The goal is to train an LSTM model to predict a timme series of developing
-velocity profiles given only boundary condiƟons of the flow. The tutorial is divided into 4 parts:
+velocity profiles given only boundary condtions of the flow. The tutorial is divided into 4 parts:
 1. Package installation
 2. Review of developing Hagen-Poiseuille flow and LSTM
 3. Data Preparatioon
